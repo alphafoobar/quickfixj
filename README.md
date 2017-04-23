@@ -1,7 +1,12 @@
+Bonsai QuickFIX/J
+=================
+
+This is a fork of the official QuickFIX/J project repository.
+
+Bonsai, for the sake of a better name.
+
 QuickFIX/J
 ==========
-
-This is the official QuickFIX/J project repository.
 
 The Financial Information eXchange (FIX) protocol is a messaging standard developed
 specifically for the real-time electronic exchange of securities transactions.

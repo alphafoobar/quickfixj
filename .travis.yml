@@ -2,6 +2,9 @@ language: java
 sudo: false
 jdk:
   - oraclejdk8
+cache:
+  directories:
+  - $HOME/.m2
 before_script:
   - ulimit -n 4096
 before_install:
